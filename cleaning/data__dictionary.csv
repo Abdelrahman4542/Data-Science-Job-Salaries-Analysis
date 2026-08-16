@@ -1,0 +1,12 @@
+Column,Data Type,Number of Rows,Missing Values,Unique Values,Description
+work_year,int64,607,0,3,Year the salary was reported
+experience_level,object,607,0,4,Employee experience level
+employment_type,object,607,0,4,Type of employment
+job_title,object,607,0,50,Employee job title
+salary,int64,607,0,272,Reported salary in the original currency
+salary_currency,object,607,0,17,Currency used for the reported salary
+salary_in_usd,int64,607,0,369,Salary converted to US dollars
+employee_residence,object,607,0,57,Country where the employee resides
+remote_ratio,int64,607,0,3,Percentage of work performed remotely
+company_location,object,607,0,50,Country where the company is located
+company_size,object,607,0,3,Company size
