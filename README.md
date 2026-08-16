@@ -182,11 +182,11 @@ Data-Science-Job-Salaries-Analysis/
 ├── EDA/
 │   └── Data_Science_Salaries_EDA.ipynb
 │
-├── PowerBI/
+├── proj_/
 │   └── Data_Science_Job_Salaries.pbix
 │
-├── Presentation/
+├──
 │   └── Project_Presentation.pdf
 │
-└── Data cleaning/
+└──cleaning/
     └── cleaned_dataset.csv
